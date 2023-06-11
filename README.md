@@ -45,8 +45,14 @@ Developed methods to improve the interior and exterior surfaces of nosecones, si
 📚 Certifications and Training:
 I have continuously sought to expand my knowledge and skills through various certifications and training programs, including:
 
-Internship: Cognizant Virtual Experience Program on Forage [May 2023].
-Certifications: Data Scientist with Python Certification [DataCamp], Machine Learning Crash Course with TensorFlow APIs [Google Developers], Data Science Tools and Methodology [IBM Cognitive class], Machine Learning and Python [Data Science Nigeria].
+Internship: 
+- Cognizant Virtual Experience Program on Forage [May 2023].
+
+Certifications: 
+- Data Scientist with Python Certification [DataCamp]
+- Machine Learning Crash Course with TensorFlow APIs [Google Developers]
+- Data Science Tools and Methodology [IBM Cognitive class]
+- Machine Learning and Python [Data Science Nigeria].
 
 
 🌐 Memberships:
