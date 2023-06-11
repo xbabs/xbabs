@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello  👋
+I'm Toluwase Babalola, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems. Welcome to my GitHub profile!
 <!--
 **xbabs/xbabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
