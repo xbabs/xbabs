@@ -1,5 +1,5 @@
 ### Hello  👋
-I'm Toluwase Babalola, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems. Welcome to my GitHub profile!
+I'm Toluwase Babalola, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems. Welcome to my portfolio!
 
 🎓 Education:
 I hold a Masters of Science in Artificial Intelligence and Data Science from the University of Hull in England. Prior to that, I completed my Bachelor of Engineering in Aeronautical and Astronautical Engineering at Kwara State University in Nigeria. My educational background has equipped me with a solid foundation in both technical engineering principles and advanced data science concepts.
