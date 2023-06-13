@@ -38,13 +38,14 @@ I have continuously sought to expand my knowledge and skills through various cer
 - Cognizant Virtual Experience Program on Forage [May 2023].
 
 **Certifications:**
-- Data Scientist with Python Certification [DataCamp]
-- Machine Learning Crash Course with TensorFlow APIs [Google Developers]
-- Data Science Tools and Methodology [IBM Cognitive class]
-- Machine Learning and Python [Data Science Nigeria].
+- Data Scientist with Python Certification at DataCamp
+- Machine Learning Crash Course with TensorFlow APIs at Google Developers
+- Data Science Tools and Methodology at IBM Cognitive class
+- Machine Learning and Python at Data Science Nigeria
 
 
 🌐**MEMBERSHIPS:**
+
 I am an active member of the Society of Artificial Intelligence, affiliated with the International Association of Engineers. I have also participated in the Internship Experience UK: Engineering Infrastructure program facilitated by Bright Network. Furthermore, I contribute to the Python Software Foundation, collaborating with other Python enthusiasts on open-source projects.
 
 **Feel free to explore my repositories to delve deeper into my projects, view code samples, and explore my contributions.**
