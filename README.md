@@ -5,12 +5,12 @@ I'm Toluwase Babalola, a highly motivated AI and Data Science professional with 
 
 🎓 **EDUCATION**
 
-I hold a Masters of Science in Artificial Intelligence and Data Science from the University of Hull in England. Prior to that, I completed my Bachelor of Engineering in Aeronautical and Astronautical Engineering at Kwara State University in Nigeria. My educational background has equipped me with a solid foundation in both technical engineering principles and advanced data science concepts.
+I am currently pursing a MS degree in Artificial Intelligence and Data Science from the University of Hull, England. Prior to that, I completed my Bachelor of Engineering in Aeronautical and Astronautical Engineering at Kwara State University, Nigeria. My educational background has equipped me with a solid foundation in both technical engineering principles and advanced data science concepts.
 
 
 💻 **SKILLS**
 
-My skillset spans a wide range of programming languages, including Python, SQL, Java, and C++. I am proficient in various libraries and frameworks such as NumPy, Sci-Py, Sci-Kit Learn, Seaborn, Matplotlib, Keras, TensorFlow, and PyTorch. Additionally, I possess expertise in data mining, statistical analysis, business analysis, text and image classification, as well as data visualization and interpretation.
+My skillset spans a wide range of programming languages, including Python, SQL, and C++. I am proficient in various libraries and frameworks such as NumPy, Sci-Py, Sci-Kit Learn, Seaborn, Matplotlib, Keras, TensorFlow, and PyTorch. Additionally, I possess expertise in data mining, statistical analysis, business analysis, text and image classification, as well as data visualization and interpretation.
 
 
 🚀 **FEATURED PROJECTS:**
