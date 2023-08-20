@@ -17,16 +17,6 @@ My skillset spans a wide range of programming languages, including **Python, SQL
 - Customer Data Pre-Processing
 
 
-👨‍💼 **RELATED EXPERIENCE:**
-
-- Maintenance Analyst at ExecuJet Aviation (2019 - 2021)
-- Data science Intern at cognizant (virtual training, May 2023)
-
-🌐**MEMBERSHIPS:**
-
-I am an active member of the Society of Artificial Intelligence, affiliated with the International Association of Engineers. I have also participated in the Internship Experience UK: Engineering Infrastructure program facilitated by Bright Network. Furthermore, I contribute to the Python Software Foundation, collaborating with other Python enthusiasts on open-source projects.
-
-
 🔭 I’m currently learning and working on Natural Language Processing, Transformers and image analysis
 
 👯 I’m looking to collaborate on open-source projects on model development, building and deployment for production.
