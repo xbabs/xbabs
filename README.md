@@ -1,6 +1,6 @@
 ## Hello  👋
 
-I'm **Toluwase Babalola**, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems. 
+I'm **Tolu**, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems. 
 
 
 💻 **SKILLS**
