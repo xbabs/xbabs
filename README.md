@@ -1,24 +1,20 @@
-## Hello  👋
+# Hi, I'm Toluwase (Tolu) Babalola — Data Scientist · NLP & MLOps · Open‑Source
 
-I'm **Tolu**, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems. 
+I build data products that solve real problems. Lately: NLP with Transformers, LLM apps, and production ML pipelines.
 
+- 🌱 **Learning:** advanced prompting, RAG, model evaluation, and MLOps best practices
+- 🤝 **Open source:** happy to collaborate on models, datasets, docs, and examples
+- 🛠️ **Toolbox:** Python, SQL, PyTorch, TensorFlow, scikit‑learn, pandas, NumPy, spaCy, Transformers, FastAPI, Streamlit, Docker, GitHub Actions
+- ✍️ **Writing:** [Medium](https://medium.com/@thbabs)
+- 🔗 **Links:** [Website](https://thbabs.com) · [LinkedIn](https://www.linkedin.com/in/toluwasebabalola) · [X](https://twitter.com/thBabs) · [Mastodon](https://me.dm/@thbabs)
 
-💻 **SKILLS**
+### Featured Projects
+- **Malicious URL Detection (BERT vs LSTM)** — deep learning for phishing detection; 522k rows; imbalance handling; clear eval. [Repo](https://github.com/xbabs/Detecting-Malicious-URLs-using-Google-s-BERT-and-LSTM-models)
+- **UK Census: Development & Investment** — ML analysis for policy insights with interpretable models. [Repo](https://github.com/xbabs/UK-CENSUS---Predicting-development-and-Investment)
+- **GDP Dashboard** — Streamlit dashboard with country KPIs. [Repo](https://github.com/xbabs/gdp-dashboard)
+- **SportBot** — LLM chatbot template with Streamlit + OpenAI. [Repo](https://github.com/xbabs/SportBot)
 
-My skillset spans a wide range of programming languages, including **Python, SQL, and C++**. I am proficient in various libraries and frameworks such as **NumPy, Sci-Py, Sci-Kit Learn, Seaborn, Matplotlib, Keras, TensorFlow, and PyTorch**. Additionally, I possess expertise in data mining, statistical analysis, business analysis, text and image classification, as well as data visualization and interpretation.
-
-
-🚀 **FEATURED PROJECTS:**
-
-- Malicious URL detection using Google's BERT and LSTM
-- Estimated Stock Percentage Prediction
-- A multiple linear regression model to predict systolic blood pressure in maternal health.
-- Detecting CO2 emission in motor vehicles
-- Customer Data Pre-Processing
-
-
-🔭 I’m currently learning and working on Natural Language Processing, Transformers and image analysis
-
-👯 I’m looking to collaborate on open-source projects on model development, building and deployment for production.
-
-**Feel free to explore my repositories to delve deeper into my projects, view code samples, and explore my contributions.**
+### How I work
+- Reproducible repos (tests, CI, pinned deps)
+- Clear READMEs, demos, and notebooks
+- Small, valuable commits every day (docs, tests, fixes, examples)
