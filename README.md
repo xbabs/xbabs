@@ -14,7 +14,4 @@ I build data products that solve real problems. Lately: NLP with Transformers, L
 - **GDP Dashboard** — Streamlit dashboard with country KPIs. [Repo](https://github.com/xbabs/gdp-dashboard)
 - **SportBot** — LLM chatbot template with Streamlit + OpenAI. [Repo](https://github.com/xbabs/SportBot)
 
-### How I work
-- Reproducible repos (tests, CI, pinned deps)
-- Clear READMEs, demos, and notebooks
-- Small, valuable commits every day (docs, tests, fixes, examples)
+
