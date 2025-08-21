@@ -1,4 +1,4 @@
-# Hi, I'm Tolu, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems.
+# Hi, I'm Tolu, a highly motivated AI Scientist and Research with an evolving interest in statistical computing into leveraging cutting-edge technologies to solve complex problems.
 
 Lately, I've been working on NLP with Transformers, Large Language Model apps, AI Agents and production ML pipelines.
 
