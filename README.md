@@ -1,6 +1,6 @@
-# Hi, I'm Toluwase (Tolu) Babalola — Data Scientist · NLP & MLOps · Open‑Source
+# Hi, I'm Tolu, a highly motivated AI and Data Science professional with a passion for leveraging cutting-edge technologies to solve complex problems.
 
-I build data products that solve real problems. Lately: NLP with Transformers, LLM apps, and production ML pipelines.
+Lately, I've been working on NLP with Transformers, Large Language Model apps, AI Agents and production ML pipelines.
 
 - 🌱 **Learning:** advanced prompting, RAG, model evaluation, and MLOps best practices
 - 🤝 **Open source:** happy to collaborate on models, datasets, docs, and examples
