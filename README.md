@@ -1,9 +1,9 @@
-# Hi, I'm Tolu, a highly motivated AI Scientist and Research with an evolving interest in statistical computing into leveraging cutting-edge technologies to solve complex problems.
+Hi, I'm Tolu, a highly motivated AI Scientist and Research with an evolving interest in statistical computing into leveraging cutting-edge technologies to solve complex problems.
 
 Lately, I've been working on NLP with Transformers, Large Language Model apps, AI Agents and production ML pipelines.
 
-- 🌱 **Learning:** advanced prompting, RAG, model evaluation, and MLOps best practices
-- 🤝 **Open source:** happy to collaborate on models, datasets, docs, and examples
+- 🌱 **Learning:** advanced prompting, RAG, model optimisation, and MLOps best practices
+- 🤝 **Open source:** AI models, big data, documentations, and examples
 - 🛠️ **Stack:** Python, SQL, PyTorch, TensorFlow, scikit‑learn, pandas, NumPy, spaCy, Transformers, FastAPI, Streamlit, Docker, GitHub Actions
 - ✍️ **Articles:** [Towards Data Science](https://towardsdatascience.com/detecting-malicious-urls-using-lstm-and-googles-bert-models/)
 - 🔗 **Links:** [Website](https://thbabs.com) · [LinkedIn](https://www.linkedin.com/in/toluwasebabalola) · [X](https://twitter.com/thBabs) · [Mastodon](https://me.dm/@thbabs)
