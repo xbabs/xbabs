@@ -4,8 +4,8 @@ Lately, I've been working on NLP with Transformers, Large Language Model apps, A
 
 - 🌱 **Learning:** advanced prompting, RAG, model evaluation, and MLOps best practices
 - 🤝 **Open source:** happy to collaborate on models, datasets, docs, and examples
-- 🛠️ **Toolbox:** Python, SQL, PyTorch, TensorFlow, scikit‑learn, pandas, NumPy, spaCy, Transformers, FastAPI, Streamlit, Docker, GitHub Actions
-- ✍️ **Writing:** [Medium](https://towardsdatascience.com/detecting-malicious-urls-using-lstm-and-googles-bert-models/)
+- 🛠️ **Stack:** Python, SQL, PyTorch, TensorFlow, scikit‑learn, pandas, NumPy, spaCy, Transformers, FastAPI, Streamlit, Docker, GitHub Actions
+- ✍️ **Articles:** [Towards Data Science](https://towardsdatascience.com/detecting-malicious-urls-using-lstm-and-googles-bert-models/)
 - 🔗 **Links:** [Website](https://thbabs.com) · [LinkedIn](https://www.linkedin.com/in/toluwasebabalola) · [X](https://twitter.com/thBabs) · [Mastodon](https://me.dm/@thbabs)
 
 ### Featured Projects
