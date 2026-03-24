@@ -1,8 +1,8 @@
-Hi, I'm Jos
+Hi, I'm Tolu
 
 I'm building a "second brain" OS for local trades...
 
-Lately, I've been working on NLP with Transformers, Large Language Model apps, AI Agents and production ML pipelines.
+I've been working on NLP with Large Language Model apps, AI Agents and production ML pipelines.
 
 - 🌱 **Framework:** prompting, RAG, model optimisation and MLOps best practices
 - 🤝 **Open source:** AI models, AI agents, workflow, MCP, documentations and examples
