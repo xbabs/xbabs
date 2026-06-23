@@ -6,7 +6,7 @@ I've been working on NLP with Large Language Model apps, AI Agents and productio
 
 - 🌱 **Framework:** prompting, RAG, model optimisation and MLOps best practices
 - 🤝 **Open source:** AI models, AI agents, workflow, MCP, documentations and examples
-- 🛠️ **Stack:** Python, SQL, Next JS, React, Transformers, APIs, Streamlit, Docker, Claude, Make 
+- 🛠️ **Stack:** Python, SQL, NoSQL, GCP, AWS, Next JS, React, Transformers, APIs, Streamlit, Docker, Claude 
 - ✍️ **Articles:** [Towards Data Science](https://towardsdatascience.com/detecting-malicious-urls-using-lstm-and-googles-bert-models/) &          [Solverdeck](https://www.solverdeck.com/blog)
 
 ### Featured Projects
