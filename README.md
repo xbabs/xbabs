@@ -1,6 +1,6 @@
 Hi, I'm Tolu
 
-I'm building a "second brain" OS for growing businesses
+I'm building a "second brain" [ServiceOS](https://github.com/xbabs/serviceos) for growing businesses
 
 I've been working on NLP with Large Language Model apps, AI Agents and production ML pipelines.
 
